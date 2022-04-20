@@ -1,6 +1,7 @@
 # include <iostream>
 using namespace std;
 
+//code made by diksha 
 int main(){
      int i,n,j,t;
      j=1;
